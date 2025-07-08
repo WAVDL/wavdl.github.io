@@ -1,0 +1,20 @@
+name: Scrape Rank Data
+on:
+  schedule:
+    - cron: '0 10 * * *'  # Every day at 10am UTC
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r _scripts/requirements.txt
+
+      - name: Run Rank Scraper
+        run: python _scripts/ScrapeRanks.py _data/ranks.json
