@@ -2,8 +2,9 @@
 layout: default
 title: Billy Van Der Laar
 ---
-# Hi!
+# Welcome
 
-This is my new website. It's still under construction, but I'll have more here soon.
+I don't have a very clearly defined purpose for this website. Maybe it's a fun experiment, maybe it's to lay claim to my own slice of the world wide web, maybe I just want to brag about [my ranking in Rocket League](/ranks/).
 
+## My Latest Posts
 {% include blog.html %}

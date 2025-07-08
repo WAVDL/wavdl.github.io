@@ -1,0 +1,30 @@
+
+<table>
+    <tr>
+        <th></th>
+    {% for rank in site.data.ranks.ranks %}
+    <th>{{ rank.playlist }}</th>
+    {% endfor %}
+    </tr>
+    <tr>
+        <th>Rank:</th>
+        {% for rank in site.data.ranks.ranks %}
+        <td>{{ rank.rank }}</td>
+        {% endfor %}
+    </tr>
+    <tr>
+        <th>Division:</th>
+        {% for rank in site.data.ranks.ranks %}
+        <td>{{ rank.division }}</td>
+        {% endfor %}
+    </tr>
+    <tr>
+        <th>MMR:</th>
+        {% for rank in site.data.ranks.ranks %}
+        <td>{{ rank.mmr }}</td>
+        {% endfor %}
+    </tr>
+</table>
+
+{% assign datetime = site.data.ranks.lastUpdatedTime | split: '.' %}
+<p>Last Updated: {{ datetime[0] }} </p>
