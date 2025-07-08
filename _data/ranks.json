@@ -1,0 +1,28 @@
+{
+    "lastUpdatedTime": "2025-07-08 01:29:38.066626",
+    "ranks": [
+        {
+            "division": "Division IV",
+            "mmr": 867,
+            "playlist": "1v1 Duel",
+            "rank": "Diamond I"
+        },
+        {
+            "division": "Division II",
+            "mmr": 1364,
+            "playlist": "2v2 Doubles",
+            "rank": "Champion III"
+        },
+        {
+            "division": "Division III",
+            "mmr": 1274,
+            "playlist": "3v3 Standard",
+            "rank": "Champion II"
+        },
+        {
+            "division": "Division I",
+            "playlist": "Tournaments",
+            "rank": "Unranked"
+        }
+    ]
+}
