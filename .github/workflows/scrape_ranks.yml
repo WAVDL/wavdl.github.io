@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          ref: 'main'
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -19,3 +21,10 @@ jobs:
 
       - name: Run Rank Scraper
         run: python _scripts/ScrapeRanks.py _data/ranks.json
+      - name: Commit Rank Data
+        run: |
+          git config --global user.name 'wavdl'
+          git config --global user.email 'billy@wavdl.blog'
+          git add _data/ranks.json
+          git commit -m "Automated Rank Data Update"
+          git push
