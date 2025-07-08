@@ -5,7 +5,7 @@ title:  "COBOL, Social Security, and the epoch myth."
 date:   2025-02-16 10:00:00 -0500
 published: true
 ---
-Elon Musk is a [liar](https://www.msn.com/en-us/entertainment/entertainment-celebrity/elon-musk-baselessly-claims-150-year-olds-are-collecting-social-security-in-bizarre-rant/ar-AA1yVvi7), but that doesn't mean you need to lie too.
+Elon Musk is a [liar](https://abcnews.go.com/Politics/musk-misreads-social-security-data-millions-dead-people/story?id=118960821), but that doesn't mean you need to lie too.
 
 > First, a disclaimer. I am not a COBOL expert, nor do I have any experience with old IBM mainframe systems. In my 8 years as a Software Engineer, the oldest thing I worked on was a codebase from the 90s written in Ada. That is pretty old in software age, but the COBOL ecosystem is still comparatively ancient. If any actual COBOL experts read this, I would happily take your feedback.
 
@@ -17,7 +17,7 @@ While scrolling bluesky I saw a post with this screenshot making fun of Elon Mus
 
 At first glance this explanation seems plausible. I have used timestamps based on the Unix Epoch on almost a daily basis in my previous work, and it would make sense for a language created before the Unix Epoch to simply use an earlier epoch date. But then I stopped and thought about it for 5 seconds.
 
-In the end, as sure as I am that Elon is not a good coder, I am also sure that the people spreading this explanation do not know what they're talking about either. After seeing this [same misinformation](https://bsky.app/profile/pbump.com/post/3li5daxur322v) pop up [repeatedly](https://bsky.app/profile/karlykingsley.bsky.social/post/3li6zohbkkn26) on [several](https://www.instagram.com/reel/DGECzHdS5wI/?igsh=dHBlcjE1b3BpNm1h) social media platforms receiving tens of thousands of likes and reposts, I was fed up, people were *wrong* on the *internet* so I had to step in.
+In the end, as sure as I am that Elon is not a good coder, I am also sure that the people spreading this explanation do not know what they're talking about either. After seeing this [same misinformation](https://bsky.app/profile/pbump.com/post/3li5daxur322v) pop up [repeatedly](https://bsky.app/profile/karlykingsley.bsky.social/post/3li6zohbkkn26) on [several](https://www.instagram.com/reel/DGECzHdS5wI/?igsh=dHBlcjE1b3BpNm1h) social media platforms receiving tens of thousands of likes and reposts, I was fed up, people were *wrong* on the *internet* so I had to step in. (Update: Since I wrote this, several [publications](https://newrepublic.com/post/191661/trump-press-secretary-leavitt-doge-elon-musk) have reported on this unverified conjecture citing a [Wired article]() which relies entirely on anonymous social media users for its conclusions on COBOL date types.)
 
 ## ISO 8601
 First of all, the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) standard does not use an epoch! ISO 8601 is a format for representing a date and/or time as a string of characters. In other words, it does NOT represent itself as a count of units of time after some chosen starting point (aka. [an epoch](https://en.wikipedia.org/wiki/Epoch_(computing))). Its dates are just a textual representation of a day in the Gregorian calendar (e.g. today is '2025-02-16').
