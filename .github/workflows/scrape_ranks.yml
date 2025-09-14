@@ -20,12 +20,15 @@ jobs:
           python-version: '3.12'
       - run: pip install -r _scripts/requirements.txt
 
-      - name: Run Rank Scraper
-        run: python _scripts/ScrapeRanks.py _data/ranks.json
-      - name: Commit Rank Data
+      - name: Run Scrapers
+        run: python _scripts/PullUpdates.py _data/ranks.json _data/books.json _data/links.json ${{ secrets.STORY_GRAPH_COOKIE }} ${{ secrets.PINBOARD_KEY }}
+
+      - name: Commit Data
         run: |
           git config --global user.name 'wavdl'
           git config --global user.email 'billy@wavdl.blog'
           git add _data/ranks.json
-          git commit -m "Automated Rank Data Update"
+          git add _data/books.json
+          git add _data/links.json
+          git commit -m "Automated Data Update"
           git push
