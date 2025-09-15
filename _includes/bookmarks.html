@@ -1,0 +1,5 @@
+<ul>
+    {% for bookmark in site.data.links.recent %}
+    <li><a href="{{bookmark.url}}">{{bookmark.title}}</a></li>
+    {% endfor %}
+</ul>

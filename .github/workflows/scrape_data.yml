@@ -1,4 +1,4 @@
-name: Scrape Rank Data
+name: Scrape Data
 on:
   schedule:
     - cron: '0 10 * * *'  # Every day at 10am UTC
