@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "Microsoft blocks Israel\u2019s use of its technology in mass surveillance of Palestinians | Israel | The Guardian",
+            "description": "",
+            "url": "https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians"
+        },
+        {
             "title": "Targeted Ohio State professors on the damaging impact of Turning Point's \u2018professor watchlist\u2019 \u2013 Matter News",
             "description": "",
             "url": "https://matternews.org/community/targeted-ohio-state-professors-on-the-damaging-impact-of-turning-points-professor-watchlist/"
@@ -44,11 +49,6 @@
             "title": "The walled garden at the end of the Internet | Denim & Tweed",
             "description": "A very important read about \"AI\", the internet and the tech companies that control it.",
             "url": "https://denimandtweed.jbyoder.org/2025/09/the-walled-garden-at-the-end-of-the-internet/"
-        },
-        {
-            "title": "Leaving 18F",
-            "description": "",
-            "url": "https://ethanmarcotte.com/wrote/leaving-18f/"
         }
     ]
 }
