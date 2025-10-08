@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "Seeing like a software company",
+            "description": "",
+            "url": "https://www.seangoedecke.com/seeing-like-a-software-company/"
+        },
+        {
             "title": "The \u2018time of miracles\u2019 is over. The Palestinians are going nowhere",
             "description": "",
             "url": "https://www.972mag.com/trump-20-point-plan-israeli-right-expulsion/"
@@ -44,11 +49,6 @@
             "title": "Hosting a WebSite on a Disposable Vape :: BogdanTheGeek's Blog",
             "description": "",
             "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
-        },
-        {
-            "title": "The White Civility Council",
-            "description": "Finally a take on All This\u2122 with some proper historical context.",
-            "url": "https://campaign-trails.ghost.io/the-white-civility-council/"
         }
     ]
 }
