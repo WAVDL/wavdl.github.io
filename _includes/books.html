@@ -1,3 +1,5 @@
+{% assign datetime = site.data.books.lastUpdatedTime | split: '.' %}
+<p>Last Updated: {{ datetime[0] }} </p>
 <ul>
     {% for book in site.data.books.read %}
     <li><a href="https://app.thestorygraph.com/books/{{book.book_id}}">{{book.title}}</a> by {{book.authors | join: ", " }}</li>

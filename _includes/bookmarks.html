@@ -1,3 +1,5 @@
+{% assign datetime = site.data.links.lastUpdatedTime | split: '.' %}
+<p>Last Updated: {{ datetime[0] }} </p>
 <ul>
     {% for bookmark in site.data.links.recent %}
     <li><a href="{{bookmark.url}}">{{bookmark.title}}</a></li>

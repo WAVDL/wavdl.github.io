@@ -21,6 +21,7 @@ def ranks_to_json(filename):
 
 def books_to_json(filename, cookie):
     output = dict()
+    output['lastUpdatedTime'] = str(datetime.datetime.now())
     user = User()
     read_books_str = user.books_read('wavdl', cookie=cookie)
     read_books = json.loads(read_books_str)[:15]
@@ -36,7 +37,7 @@ def books_to_json(filename, cookie):
 def links_to_json(filename, api_key):
     pb = pinboard.Pinboard(api_key)
     posts = pb.posts.recent(tag=["reading-list", "python"])
-    bookmarks = posts['posts'][:10]
+    bookmarks = posts['posts'][:15]
     recents = []
     for bookmark in bookmarks:
         entry = {
@@ -45,7 +46,7 @@ def links_to_json(filename, api_key):
         'url': bookmark.url
         }
         recents.append(entry)
-    output = {'recent': recents}
+    output = {'recent': recents, 'lastUpdatedTime': str(datetime.datetime.now())}
     with open(filename, 'w') as f:
         json.dump(output, f, indent=4)
 
@@ -55,7 +56,10 @@ if __name__ == '__main__':
     ranks_to_json(sys.argv[1])
     # Scrape StoryGraph reading list.
     cookie = sys.argv[4]
-    books_to_json(sys.argv[2], cookie)
+    try:
+        books_to_json(sys.argv[2], cookie)
+    except:
+        pass
     # Pull Pinboard reading list.
     api_key = sys.argv[5]
     links_to_json(sys.argv[3], api_key)
