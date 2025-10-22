@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "The world is something that we make | Terminal",
+            "description": "",
+            "url": "https://terminal.ahumanfuture.co/posts/2025-10-17/the-world-is-something-that-we-make/"
+        },
+        {
             "title": "Seeing like a software company",
             "description": "",
             "url": "https://www.seangoedecke.com/seeing-like-a-software-company/"
@@ -69,12 +74,7 @@
             "title": "Leaving 18F",
             "description": "",
             "url": "https://ethanmarcotte.com/wrote/leaving-18f/"
-        },
-        {
-            "title": "Vibe code is legacy code | Val Town Blog",
-            "description": "",
-            "url": "https://blog.val.town/vibe-code"
         }
     ],
-    "lastUpdatedTime": "2025-10-21 10:25:12.502206"
+    "lastUpdatedTime": "2025-10-22 10:26:57.920018"
 }
