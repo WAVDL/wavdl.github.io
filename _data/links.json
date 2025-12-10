@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "Illegible perception - Julik Tarkhanov",
+            "description": "",
+            "url": "https://blog.julik.nl/2025/09/illegible-perception"
+        },
+        {
             "title": "The Montana Plan To Kill Citizens United",
             "description": "",
             "url": "https://www.levernews.com/the-montana-plan-to-kill-citizens-united/"
@@ -69,12 +74,7 @@
             "title": "The Gaza family torn apart by IDF snipers from Chicago and Munich | Israel-Gaza war | The Guardian",
             "description": "",
             "url": "https://www.theguardian.com/world/2025/sep/09/the-gaza-family-torn-apart-by-idf-snipers-from-chicago-and-munich"
-        },
-        {
-            "title": "Hosting a WebSite on a Disposable Vape :: BogdanTheGeek's Blog",
-            "description": "",
-            "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
         }
     ],
-    "lastUpdatedTime": "2025-12-09 10:29:22.899373"
+    "lastUpdatedTime": "2025-12-10 10:29:24.305575"
 }

@@ -1,5 +1,5 @@
 {
-    "lastUpdatedTime": "2025-12-09 10:28:57.779379",
+    "lastUpdatedTime": "2025-12-10 10:28:51.380478",
     "ranks": [
         {
             "division": "Division III",
@@ -18,12 +18,6 @@
             "mmr": 1146,
             "playlist": "3v3 Standard",
             "rank": "Champion I"
-        },
-        {
-            "division": "Division I",
-            "mmr": 1183,
-            "playlist": "4v4 Quads",
-            "rank": "Champion II"
         }
     ]
 }
