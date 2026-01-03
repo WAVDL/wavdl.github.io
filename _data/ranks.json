@@ -1,5 +1,5 @@
 {
-    "lastUpdatedTime": "2026-01-02 10:26:06.631440",
+    "lastUpdatedTime": "2026-01-03 10:24:57.071360",
     "ranks": [
         {
             "division": "Division IV",
@@ -14,8 +14,8 @@
             "rank": "Champion II"
         },
         {
-            "division": "Division I",
-            "mmr": 1079,
+            "division": "Division II",
+            "mmr": 1098,
             "playlist": "3v3 Standard",
             "rank": "Champion I"
         }
