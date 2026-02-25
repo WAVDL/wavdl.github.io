@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "How to build a distributed queue in a single JSON file on object storage",
+            "description": "",
+            "url": "https://turbopuffer.com/blog/object-storage-queue"
+        },
+        {
             "title": "Acting ethically in an imperfect world",
             "description": "",
             "url": "https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/"
@@ -69,12 +74,7 @@
             "title": "Targeted Ohio State professors on the damaging impact of Turning Point's \u2018professor watchlist\u2019 \u2013 Matter News",
             "description": "",
             "url": "https://matternews.org/community/targeted-ohio-state-professors-on-the-damaging-impact-of-turning-points-professor-watchlist/"
-        },
-        {
-            "title": "Observations, lessons and incidents from biking 50 percent of Columbus, Ohio",
-            "description": "",
-            "url": "https://www.rooster.info/p/observations-lessons-and-incidents"
         }
     ],
-    "lastUpdatedTime": "2026-02-24 10:53:52.873518"
+    "lastUpdatedTime": "2026-02-25 10:54:39.636810"
 }
