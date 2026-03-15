@@ -1,6 +1,20 @@
 {
     "read": [
         {
+            "title": "When Driving Is Not an Option: Steering Away from Car Dependency",
+            "book_id": "edb41319-0c8a-4bce-8f17-e91882b901db",
+            "authors": [
+              "Anna Zivarts"
+            ]
+        },
+        {
+            "title": "The Color of Law: A Forgotten History of How Our Government Segregated America",
+            "book_id": "79413d11-2eec-42b8-831d-d2d8a00eeb20",
+            "authors": [
+              "Richard Rothstein"
+            ]
+        },
+        {
             "title": "The Sirens' Call: How Attention Became the World's Most Endangered Resource",
             "book_id": "60681b5f-d0d1-4a3c-ac2b-e82383517c9a",
             "authors": [
@@ -109,5 +123,5 @@
             ]
         }
     ],
-    "lastUpdatedTime": "2025-10-17 20:06:59.485890"
+    "lastUpdatedTime": "2025-11-22 20:06:59.485890"
 }
