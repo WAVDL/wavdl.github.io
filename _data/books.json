@@ -1,24 +1,24 @@
 {
-    "lastUpdatedTime": "2026-03-16 00:38:31.962238",
+    "lastUpdatedTime": "2026-03-16 00:45:14.837202",
     "read": [
         {
             "title": "The Hundred Years' War on Palestine",
             "book_id": "007631a2-5e12-47a0-86c6-d09e9ee2c877",
-            "author": [
+            "authors": [
                 "Rashid Khalidi"
             ]
         },
         {
             "title": "Paved Paradise: How Parking Explains the World",
             "book_id": "baee78f8-fb22-42e3-880c-a79bf2b8f9a9",
-            "author": [
+            "authors": [
                 "Henry Grabar"
             ]
         },
         {
             "title": "When Driving Is Not an Option: Steering Away from Car Dependency",
             "book_id": "edb41319-0c8a-4bce-8f17-e91882b901db",
-            "author": [
+            "authors": [
                 "Anna Zivarts",
                 "Dani Simons"
             ]
@@ -26,21 +26,21 @@
         {
             "title": "The Color of Law: A Forgotten History of How Our Government Segregated America",
             "book_id": "79413d11-2eec-42b8-831d-d2d8a00eeb20",
-            "author": [
+            "authors": [
                 "Richard Rothstein"
             ]
         },
         {
             "title": "The Sirens' Call: How Attention Became the World's Most Endangered Resource",
             "book_id": "60681b5f-d0d1-4a3c-ac2b-e82383517c9a",
-            "author": [
+            "authors": [
                 "Chris Hayes"
             ]
         },
         {
             "title": "The AI Con",
             "book_id": "70d49510-0d8f-4c65-ab7e-33e6fc60100d",
-            "author": [
+            "authors": [
                 "Emily M. Bender",
                 "Alex Hanna"
             ]
@@ -48,63 +48,63 @@
         {
             "title": "How Infrastructure Works: Inside the Systems That Shape Our World",
             "book_id": "fc70a94c-7238-478d-8d13-37958d318f58",
-            "author": [
+            "authors": [
                 "Deb Chachra"
             ]
         },
         {
             "title": "How Fascism Works: The Politics of Us and Them",
             "book_id": "639d7bf3-bde2-493d-8a14-f1b7dfbebae4",
-            "author": [
+            "authors": [
                 "Jason Stanley"
             ]
         },
         {
             "title": "Children of Dune",
             "book_id": "b1513ffe-121c-4a37-b84c-7d1dac0d5554",
-            "author": [
+            "authors": [
                 "Frank Herbert"
             ]
         },
         {
             "title": "Walkable City: How Downtown Can Save America, One Step at a Time",
             "book_id": "44f9983b-3982-443e-a2ba-b5be7ba45dc2",
-            "author": [
+            "authors": [
                 "Jeff Speck"
             ]
         },
         {
             "title": "The Jagged Orbit",
             "book_id": "fb6c1ea6-b696-423e-be73-e23b9bb592ba",
-            "author": [
+            "authors": [
                 "John Brunner"
             ]
         },
         {
             "title": "Dune Messiah",
             "book_id": "d80920a1-ec27-4881-9b5c-6de212a94927",
-            "author": [
+            "authors": [
                 "Frank Herbert"
             ]
         },
         {
             "title": "Bowling Alone: The Collapse and Revival of American Community",
             "book_id": "c0765fbd-9527-4105-88f7-1aeb443c0b37",
-            "author": [
+            "authors": [
                 "Robert D. Putnam"
             ]
         },
         {
             "title": "Blood in the Machine: The Origins of the Rebellion Against Big Tech",
             "book_id": "20d56e80-b31d-432d-8e5b-3e4a234de0dc",
-            "author": [
+            "authors": [
                 "Brian Merchant"
             ]
         },
         {
             "title": "A Philosophy of Walking",
             "book_id": "332d6e05-a21b-44d9-b38b-e9c9cbbbfc78",
-            "author": [
+            "authors": [
                 "Fr\u00e9d\u00e9ric Gros",
                 "Clifford Harper",
                 "John Howe"
