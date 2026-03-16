@@ -19,6 +19,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r _scripts/requirements.txt
+      - run: pip install git+https://github.com/WAVDL/storygraph-api
 
       - name: Run Scrapers
         run: python _scripts/PullUpdates.py _data/ranks.json _data/books.json _data/links.json ${{ secrets.STORY_GRAPH_COOKIE }} ${{ secrets.PINBOARD_KEY }}

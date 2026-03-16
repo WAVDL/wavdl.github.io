@@ -25,11 +25,6 @@ def books_to_json(filename, cookie):
     user = User()
     read_books_str = user.books_read('wavdl', cookie=cookie)
     read_books = json.loads(read_books_str)[:15]
-    book = Book()
-    for read_book in read_books:
-        info_str = book.book_info(read_book['book_id'])
-        info = json.loads(info_str)
-        read_book['authors'] = info['authors']
     output['read'] = read_books[:15]
     with open(filename, 'w') as f:
         json.dump(output, f, indent=4)
@@ -50,16 +45,13 @@ def links_to_json(filename, api_key):
     with open(filename, 'w') as f:
         json.dump(output, f, indent=4)
 
-
+# Usage: python3 _scripts/PullUpdates.py _data/ranks.json _data/books.json _data/links.json <storygraph-cookie> <pinboard-api-key>
 if __name__ == '__main__':
     # Scrape Rocket League ranks
     ranks_to_json(sys.argv[1])
     # Scrape StoryGraph reading list.
     cookie = sys.argv[4]
-    try:
-        books_to_json(sys.argv[2], cookie)
-    except:
-        pass
+    books_to_json(sys.argv[2], cookie)
     # Pull Pinboard reading list.
     api_key = sys.argv[5]
     links_to_json(sys.argv[3], api_key)
