@@ -1,23 +1,23 @@
 {
-    "lastUpdatedTime": "2026-03-31 10:57:35.141780",
+    "lastUpdatedTime": "2026-04-01 11:01:31.260642",
     "ranks": [
         {
             "division": "Division I",
             "mmr": 818,
             "playlist": "1v1 Duel",
-            "rank": "Diamond I"
+            "rank": "Radish I"
         },
         {
-            "division": "Division I",
-            "mmr": 1314,
+            "division": "Division IV",
+            "mmr": 1284,
             "playlist": "2v2 Doubles",
-            "rank": "Champion III"
+            "rank": "Purple Cabbage II"
         },
         {
             "division": "Division II",
             "mmr": 1120,
             "playlist": "3v3 Standard",
-            "rank": "Champion I"
+            "rank": "Purple Cabbage I"
         }
     ]
 }
