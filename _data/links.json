@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "Kill Yr Substack | Jason Cosper",
+            "description": "",
+            "url": "https://jasoncosper.com/kill-yr-substack/"
+        },
+        {
             "title": "On the acceptance of GenAI | Joep Schuurkes",
             "description": "",
             "url": "https://smallsheds.garden/blog/2026/on-the-acceptance-of-genai/"
@@ -69,12 +74,7 @@
             "title": "The world is something that we make | Terminal",
             "description": "",
             "url": "https://terminal.ahumanfuture.co/posts/2025-10-17/the-world-is-something-that-we-make/"
-        },
-        {
-            "title": "Seeing like a software company",
-            "description": "",
-            "url": "https://www.seangoedecke.com/seeing-like-a-software-company/"
         }
     ],
-    "lastUpdatedTime": "2026-04-21 11:12:45.398490"
+    "lastUpdatedTime": "2026-04-22 11:10:38.446213"
 }
