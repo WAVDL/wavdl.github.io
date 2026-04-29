@@ -1,6 +1,13 @@
 {
-    "lastUpdatedTime": "2026-04-28 11:48:21.256273",
+    "lastUpdatedTime": "2026-04-29 11:41:23.161219",
     "read": [
+        {
+            "title": "Dark Wire: The Incredible True Story of the Largest Sting Operation Ever",
+            "book_id": "67aba530-ae33-4c93-9cd1-a7d002d40fbb",
+            "authors": [
+                "Joseph Cox"
+            ]
+        },
         {
             "title": "The Hundred Years' War on Palestine",
             "book_id": "007631a2-5e12-47a0-86c6-d09e9ee2c877",
@@ -99,15 +106,6 @@
             "book_id": "20d56e80-b31d-432d-8e5b-3e4a234de0dc",
             "authors": [
                 "Brian Merchant"
-            ]
-        },
-        {
-            "title": "A Philosophy of Walking",
-            "book_id": "332d6e05-a21b-44d9-b38b-e9c9cbbbfc78",
-            "authors": [
-                "Fr\u00e9d\u00e9ric Gros",
-                "Clifford Harper",
-                "John Howe"
             ]
         }
     ]
