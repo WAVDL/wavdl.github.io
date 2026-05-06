@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "Your Software Is Not Sentient",
+            "description": "",
+            "url": "https://karlbode.com/your-software-is-not-sentient/"
+        },
+        {
             "title": "Rift \u00b7 For thirty years I programmed with Phish on, every day. In 2026, the music is out of phase with the work. | Christopher Meiklejohn",
             "description": "",
             "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html"
@@ -69,12 +74,7 @@
             "title": "Google is stifling anti-ICE speech in the workplace as 1,200 employees call on the company to cut ties",
             "description": "",
             "url": "https://www.bloodinthemachine.com/p/google-is-censoring-anti-ice-speech"
-        },
-        {
-            "title": "Illegible perception - Julik Tarkhanov",
-            "description": "",
-            "url": "https://blog.julik.nl/2025/09/illegible-perception"
         }
     ],
-    "lastUpdatedTime": "2026-05-05 11:18:00.252433"
+    "lastUpdatedTime": "2026-05-06 11:50:56.527932"
 }
