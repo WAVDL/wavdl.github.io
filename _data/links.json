@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "Following Patreon Creators via RSS",
+            "description": "",
+            "url": "https://nicholas.cloud/blog/following-patreon-creators-via-rss/"
+        },
+        {
             "title": "Your Software Is Not Sentient",
             "description": "",
             "url": "https://karlbode.com/your-software-is-not-sentient/"
@@ -41,14 +46,14 @@
             "url": "https://smallsheds.garden/blog/2026/on-the-acceptance-of-genai/"
         },
         {
-            "title": "I used AI. It worked. I hated it.: Taggart Tech",
-            "description": "",
-            "url": "https://taggart-tech.com/reckoning/"
-        },
-        {
             "title": "Who Goes AI?",
             "description": "",
             "url": "https://www.todayintabs.com/p/who-goes-ai"
+        },
+        {
+            "title": "I used AI. It worked. I hated it.: Taggart Tech",
+            "description": "",
+            "url": "https://taggart-tech.com/reckoning/"
         },
         {
             "title": "The 49MB Web Page | thatshubham",
@@ -69,12 +74,7 @@
             "title": "Why LeBron James Ignores Genocide and Stands With Israel | The Nation",
             "description": "",
             "url": "https://www.thenation.com/?post_type=article&p=587460"
-        },
-        {
-            "title": "Google is stifling anti-ICE speech in the workplace as 1,200 employees call on the company to cut ties",
-            "description": "",
-            "url": "https://www.bloodinthemachine.com/p/google-is-censoring-anti-ice-speech"
         }
     ],
-    "lastUpdatedTime": "2026-05-11 12:41:13.810756"
+    "lastUpdatedTime": "2026-05-12 11:59:04.838552"
 }
