@@ -1,6 +1,13 @@
 {
-    "lastUpdatedTime": "2026-05-18 13:50:10.373297",
+    "lastUpdatedTime": "2026-05-19 12:42:51.138117",
     "read": [
+        {
+            "title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
+            "book_id": "5d972450-a8fa-48bd-98ec-6325a22a8b34",
+            "authors": [
+                "Cory Doctorow"
+            ]
+        },
         {
             "title": "Dark Wire: The Incredible True Story of the Largest Sting Operation Ever",
             "book_id": "67aba530-ae33-4c93-9cd1-a7d002d40fbb",
@@ -99,13 +106,6 @@
             "book_id": "c0765fbd-9527-4105-88f7-1aeb443c0b37",
             "authors": [
                 "Robert D. Putnam"
-            ]
-        },
-        {
-            "title": "Blood in the Machine: The Origins of the Rebellion Against Big Tech",
-            "book_id": "20d56e80-b31d-432d-8e5b-3e4a234de0dc",
-            "authors": [
-                "Brian Merchant"
             ]
         }
     ]
