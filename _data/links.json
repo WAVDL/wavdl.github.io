@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "henry-george-and-the-catholic-church",
+            "description": "",
+            "url": "https://cooperative-individualism.org/young-john_henry-george-and-the-catholic-church-undated.pdf"
+        },
+        {
             "title": "Big Tech\u2019s Anti-Labor Playbook Has Come for Wikipedia",
             "description": "",
             "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943"
@@ -69,12 +74,7 @@
             "title": "How to build a distributed queue in a single JSON file on object storage",
             "description": "",
             "url": "https://turbopuffer.com/blog/object-storage-queue"
-        },
-        {
-            "title": "Acting ethically in an imperfect world",
-            "description": "",
-            "url": "https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/"
         }
     ],
-    "lastUpdatedTime": "2026-06-05 12:40:53.749463"
+    "lastUpdatedTime": "2026-06-06 11:37:09.527801"
 }
