@@ -61,14 +61,14 @@
             "url": "https://smallsheds.garden/blog/2026/on-the-acceptance-of-genai/"
         },
         {
-            "title": "I used AI. It worked. I hated it.: Taggart Tech",
-            "description": "",
-            "url": "https://taggart-tech.com/reckoning/"
-        },
-        {
             "title": "Who Goes AI?",
             "description": "",
             "url": "https://www.todayintabs.com/p/who-goes-ai"
+        },
+        {
+            "title": "I used AI. It worked. I hated it.: Taggart Tech",
+            "description": "",
+            "url": "https://taggart-tech.com/reckoning/"
         },
         {
             "title": "The 49MB Web Page | thatshubham",
@@ -76,5 +76,5 @@
             "url": "https://thatshubham.com/blog/news-audit"
         }
     ],
-    "lastUpdatedTime": "2026-07-07 12:28:51.722127"
+    "lastUpdatedTime": "2026-07-08 11:48:46.707793"
 }
