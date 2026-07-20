@@ -1,6 +1,13 @@
 {
-    "lastUpdatedTime": "2026-07-19 11:11:04.727166",
+    "lastUpdatedTime": "2026-07-20 12:18:41.996224",
     "read": [
+        {
+            "title": "The Land Trap: A New History of the World's Oldest Asset",
+            "book_id": "bdef4794-6d56-4589-9398-2e689237ae4f",
+            "authors": [
+                "Mike Bird"
+            ]
+        },
         {
             "title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
             "book_id": "5d972450-a8fa-48bd-98ec-6325a22a8b34",
@@ -99,13 +106,6 @@
             "book_id": "d80920a1-ec27-4881-9b5c-6de212a94927",
             "authors": [
                 "Frank Herbert"
-            ]
-        },
-        {
-            "title": "Bowling Alone: The Collapse and Revival of American Community",
-            "book_id": "c0765fbd-9527-4105-88f7-1aeb443c0b37",
-            "authors": [
-                "Robert D. Putnam"
             ]
         }
     ]
