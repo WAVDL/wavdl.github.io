@@ -1,0 +1,13 @@
+{% assign datetime = site.data.movies.lastUpdatedTime | split: '.' %}
+<p>Last Updated: {{ datetime[0] }} </p>
+<div class="container">
+{% for movie in site.data.movies.watched %}
+    <div class="review">
+        <div class="title"><p><a href="{{movie.link}}">{{movie.title}}</a></p></div>
+        <div class="item">
+            <div class="poster"><a href="{{movie.link}}"><img src="{{movie.image}}"/></a></div>
+            <div class="text"><p>{{movie.review}}</p></div>
+        </div>
+    </div>
+{% endfor %}
+</div>

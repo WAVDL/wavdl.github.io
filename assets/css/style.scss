@@ -1,5 +1,21 @@
 ---
 ---
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.item {
+  display: flex;
+  gap: 30px;
+}
+.poster {
+    flex-basis: 15%
+}
+.text {
+    flex-basis: 85%
+}
+
 
 @import "{{ site.theme }}"
 

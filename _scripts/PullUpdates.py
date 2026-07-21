@@ -1,5 +1,9 @@
 from RlStatsScraper import RlStatsScraper, Platform
 from storygraph_api import User, Book
+from rss_parser import RSSParser
+from requests import get
+from html.parser import HTMLParser
+
 import pinboard
 import json
 import datetime
@@ -45,13 +49,60 @@ def links_to_json(filename, api_key):
     with open(filename, 'w') as f:
         json.dump(output, f, indent=4)
 
-# Usage: python3 _scripts/PullUpdates.py _data/ranks.json _data/books.json _data/links.json <storygraph-cookie> <pinboard-api-key>
+def movies_to_json(filename):
+
+    rss_url = "https://letterboxd.com/wavdl/rss/"
+    response = get(rss_url)
+    rss = RSSParser.parse(response.text)
+
+    class MovieHTMLParser(HTMLParser):
+
+        def __init__(self):
+            HTMLParser.__init__(self)
+            self.img_src = ""
+            self.review = ""
+            self.in_paragraph = False
+
+        def clear_movie(self):
+            self.img_src = ""
+            self.review = ""
+
+        def handle_starttag(self, tag, attrs):
+            if tag == "img":
+                self.img_src = attrs[0][1]
+            if tag == "p":
+                self.in_paragraph = True
+
+        def handle_endtag(self, tag):
+            if tag == "p":
+                self.in_paragraph = False
+
+        def handle_data(self, data):
+            if self.in_paragraph:
+                self.review = data.strip()
+
+    parser = MovieHTMLParser()
+
+    output = dict()
+    output['watched'] = []
+    for item in rss.channel.items:
+        parser.feed(item.description.content)
+        output['watched'].append({'title': item.title.content, 'image': parser.img_src, 'review': parser.review, 'link': item.links[0].content})
+        parser.clear_movie()
+    output['watched'] = output['watched'][:15]
+
+    output['lastUpdatedTime'] = str(datetime.datetime.now())
+    with open(filename, 'w') as f:
+        json.dump(output, f, indent=4)
+
+# Usage: python3 _scripts/PullUpdates.py <storygraph-cookie> <pinboard-api-key>
 if __name__ == '__main__':
+    movies_to_json("_data/movies.json")
     # Scrape Rocket League ranks
-    ranks_to_json(sys.argv[1])
+    ranks_to_json("_data/ranks.json")
     # Scrape StoryGraph reading list.
-    cookie = sys.argv[4]
-    books_to_json(sys.argv[2], cookie)
+    cookie = sys.argv[1]
+    books_to_json("_data/books.json", cookie)
     # Pull Pinboard reading list.
-    api_key = sys.argv[5]
-    links_to_json(sys.argv[3], api_key)
+    api_key = sys.argv[2]
+    links_to_json("_data/links.json", api_key)

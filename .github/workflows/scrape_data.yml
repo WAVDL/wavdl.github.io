@@ -22,7 +22,7 @@ jobs:
       - run: pip install git+https://github.com/WAVDL/storygraph-api
 
       - name: Run Scrapers
-        run: python _scripts/PullUpdates.py _data/ranks.json _data/books.json _data/links.json ${{ secrets.STORY_GRAPH_COOKIE }} ${{ secrets.PINBOARD_KEY }}
+        run: python _scripts/PullUpdates.py ${{ secrets.STORY_GRAPH_COOKIE }} ${{ secrets.PINBOARD_KEY }}
 
       - name: Commit Data
         run: |
@@ -31,5 +31,6 @@ jobs:
           git add _data/ranks.json
           git add _data/books.json
           git add _data/links.json
+          git add _data/movies.json
           git commit -m "Automated Data Update"
           git push

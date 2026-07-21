@@ -1,7 +1,17 @@
 {% assign datetime = site.data.books.lastUpdatedTime | split: '.' %}
 <p>Last Updated: {{ datetime[0] }} </p>
-<ul>
+<div class="container">
     {% for book in site.data.books.read %}
-    <li><a href="https://app.thestorygraph.com/books/{{book.book_id}}">{{book.title}}</a> by {{book.authors | join: ", " }}</li>
+    <div class="item">
+        <div class="poster">
+            <a href="https://app.thestorygraph.com/books/{{book.book_id}}">
+                <img src="{{book.cover}}"/>
+            </a>
+        </div>
+        <div class="text">
+            <a href="https://app.thestorygraph.com/books/{{book.book_id}}">{{book.title}}</a> by {{book.authors | join: ", " }}
+        </div>
+    </div>
     {% endfor %}
-</ul>
+
+</div>

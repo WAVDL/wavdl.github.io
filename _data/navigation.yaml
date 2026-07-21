@@ -7,8 +7,10 @@ nav:
   - name: Blog
     link: /blog/
 links:
-  - name: Ranks
-    link: /ranks/
+  - name: Games
+    link: /games/
   - name: Reading List
-    link: /2025/09/14/what-ive-been-reading.html
+    link: /reading/
+  - name: Watch List
+    link: /watch/
 

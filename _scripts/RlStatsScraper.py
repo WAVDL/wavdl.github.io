@@ -64,6 +64,6 @@ class RlStatsScraper:
         block_skills = soup.find_all("div", class_=self.className_)
         if len(block_skills) == 0:
             print("ERROR: Couldn't find ranking class:", self.className_)
-            return None
+            return []
         ranks = get_ranks_from_table(block_skills[0].find("table"))
         return ranks
