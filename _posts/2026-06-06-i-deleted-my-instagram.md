@@ -2,7 +2,7 @@
 layout: post
 author: William Van Der Laar
 title: "I Deleted My Instagram"
-date: 2026-06-06 18:00:00 -0500
+date: 2026-08-06 18:00:00 -0500
 published: true
 ---
 
