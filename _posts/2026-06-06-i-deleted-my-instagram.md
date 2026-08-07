@@ -7,7 +7,9 @@ published: true
 ---
 
 It's a bit of the "boy who cried wolf" situation since I've been saying I'd do this for over a year and a half. But
-it's done, and you should consider it too. There are countless reasons to get off of Meta's platforms.
+it's done, and you should consider it too. 
+
+There are countless reasons to get off of Meta's platforms.
 They [attack](https://www.pbs.org/newshour/nation/instagram-and-youtube-found-liable-in-landmark-social-media-addiction-trial-in-california)
 your
 [mental health](https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design),
@@ -43,7 +45,9 @@ I expect a regular person's response to this choice to be similar to the refrain
 not owned a car in over 5 years. "Why do you bother? Your individual choices won't solve the problem!", they
 say. I have a lot of complaints about this attitude, but most of all I think it's the apparent lack of self-respect from
 the
-one who utters it. Beyond the power of collective action, I still think doing good things is good, even if you're the
+one who utters it. 
+
+Beyond the power of collective action, I still think doing good things is good, even if you're the
 only one doing them. I still think participating in bad systems is bad, even if only for how it affects your mind and
 soul. But the truth is no one exists in a vacuum, and you are better than "nothing I do matters".
 
