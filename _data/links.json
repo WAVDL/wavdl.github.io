@@ -1,6 +1,16 @@
 {
     "recent": [
         {
+            "title": "Ordinary Abundance",
+            "description": "",
+            "url": "https://ordinaryabundance.com/"
+        },
+        {
+            "title": "I'm done using AI \u2013 Brett Codes",
+            "description": "",
+            "url": "https://brettcodes.com/im-done-using-ai/"
+        },
+        {
             "title": "Vintage Technology Daydreams: Byte Magazine's Extraordinary Cover Illustrations | Futurism",
             "description": "",
             "url": "https://vocal.media/futurism/vintage-technology-daydreams-byte-magazine-s-extraordinary-cover-illustrations"
@@ -64,17 +74,7 @@
             "title": "Big Tech\u2019s Anti-Labor Playbook Has Come for Wikipedia",
             "description": "",
             "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943"
-        },
-        {
-            "title": "Following Patreon Creators via RSS",
-            "description": "",
-            "url": "https://nicholas.cloud/blog/following-patreon-creators-via-rss/"
-        },
-        {
-            "title": "Your Software Is Not Sentient",
-            "description": "",
-            "url": "https://karlbode.com/your-software-is-not-sentient/"
         }
     ],
-    "lastUpdatedTime": "2026-08-13 11:02:42.492930"
+    "lastUpdatedTime": "2026-08-14 11:00:00.894922"
 }
