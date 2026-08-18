@@ -1,6 +1,24 @@
 {
     "watched": [
         {
+            "title": "Joybubbles, 2026 - \u2605\u2605\u2605\u2605",
+            "image": "",
+            "review": "Dudes rock",
+            "link": "https://letterboxd.com/wavdl/film/joybubbles/"
+        },
+        {
+            "title": "The Odyssey, 2026 - \u2605\u2605\u2605\u2605\u2605",
+            "image": "https://a.ltrbxd.com/resized/film-poster/1/2/5/5/3/9/4/1255394-the-odyssey-2026-0-600-0-900-crop.jpg?v=1eed046d0c",
+            "review": "Dudes rock",
+            "link": "https://letterboxd.com/wavdl/film/the-odyssey-2026/"
+        },
+        {
+            "title": "Wuthering Heights, 2026 - \u2605\u2605\u2605\u00bd",
+            "image": "https://a.ltrbxd.com/resized/film-poster/1/1/9/6/9/1/1/1196911-wuthering-heights-2026-0-600-0-900-crop.jpg?v=7d02cf3bdc",
+            "review": "Dudes rock?",
+            "link": "https://letterboxd.com/wavdl/film/wuthering-heights-2026/"
+        },
+        {
             "title": "In the Hand of Dante, 2025 - \u2605\u2605",
             "image": "https://a.ltrbxd.com/resized/film-poster/9/1/9/2/3/8/919238-in-the-hand-of-dante-0-600-0-900-crop.jpg?v=13be79f68b",
             "review": "There were a few cool scenes but overall a very unpleasant watch. Maybe if I had a greater appreciation of Middle Age poetry I would feel different, idk, this was not for me.",
@@ -71,25 +89,7 @@
             "image": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-600-0-900-crop.jpg?v=2320acafd5",
             "review": "Watched on Friday April 10, 2026.",
             "link": "https://letterboxd.com/wavdl/film/the-drama/"
-        },
-        {
-            "title": "The Green Mile, 1999 - \u2605\u2605\u2605\u2605",
-            "image": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/3/51613-the-green-mile-0-600-0-900-crop.jpg?v=fff3d0bd1f",
-            "review": "I'm usually not a fan of movies that feel long but this one was able to develop at a slow and natural pace in a way that made you really appreciate the characters.",
-            "link": "https://letterboxd.com/wavdl/film/the-green-mile/"
-        },
-        {
-            "title": "Project Hail Mary, 2026 - \u2605\u2605\u2605\u00bd",
-            "image": "https://a.ltrbxd.com/resized/film-poster/6/1/1/2/8/8/611288-project-hail-mary-0-600-0-900-crop.jpg?v=ac31b6ec03",
-            "review": "This was good, but I think I'd rather just watch interstellar",
-            "link": "https://letterboxd.com/wavdl/film/project-hail-mary/"
-        },
-        {
-            "title": "Crime 101, 2026 - \u2605\u2605\u2605",
-            "image": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/1/3/2/1058132-crime-101-0-600-0-900-crop.jpg?v=eaba4b3224",
-            "review": "This was fun",
-            "link": "https://letterboxd.com/wavdl/film/crime-101/"
         }
     ],
-    "lastUpdatedTime": "2026-08-06 12:04:06.911285"
+    "lastUpdatedTime": "2026-08-17 10:34:33.032538"
 }
