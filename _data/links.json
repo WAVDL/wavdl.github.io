@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "Microsoft made a quiet change to a popular software grant. Small nonprofits lost everything.",
+            "description": "",
+            "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html"
+        },
+        {
             "title": "SF drone arrest mistook handshake for drug sale, attorney says",
             "description": "",
             "url": "https://missionlocal.org/2026/08/sfpd-drone-arrest-charges-dismissed-rtic/"
@@ -69,12 +74,7 @@
             "title": "The Williamsburg parking lot that used to be sixteen apartments",
             "description": "",
             "url": "https://danieltrubman.substack.com/p/the-williamsburg-parking-lot-that"
-        },
-        {
-            "title": "Is AI Profitable Yet?",
-            "description": "",
-            "url": "https://isaiprofitable.com/"
         }
     ],
-    "lastUpdatedTime": "2026-08-23 10:27:33.385094"
+    "lastUpdatedTime": "2026-08-24 10:39:50.735594"
 }
