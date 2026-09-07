@@ -1,5 +1,5 @@
 {
-    "lastUpdatedTime": "2026-09-06 13:28:11.636629",
+    "lastUpdatedTime": "2026-09-07 15:36:49.669542",
     "read": [
         {
             "title": "The Land Trap: A New History of the World's Oldest Asset",
@@ -82,46 +82,6 @@
                 "Deb Chachra"
             ],
             "cover": "https://cdn.thestorygraph.com/4p8t7meb5tnrv4024vtwkqff20mc"
-        },
-        {
-            "title": "How Fascism Works: The Politics of Us and Them",
-            "book_id": "639d7bf3-bde2-493d-8a14-f1b7dfbebae4",
-            "authors": [
-                "Jason Stanley"
-            ],
-            "cover": "https://cdn.thestorygraph.com/cckc8wq9hycj4192vb9gt75c4cqs"
-        },
-        {
-            "title": "Children of Dune",
-            "book_id": "b1513ffe-121c-4a37-b84c-7d1dac0d5554",
-            "authors": [
-                "Frank Herbert"
-            ],
-            "cover": "https://cdn.thestorygraph.com/iq8f2t1agn7xmf6qpigmbysg9jul"
-        },
-        {
-            "title": "Walkable City: How Downtown Can Save America, One Step at a Time",
-            "book_id": "44f9983b-3982-443e-a2ba-b5be7ba45dc2",
-            "authors": [
-                "Jeff Speck"
-            ],
-            "cover": "https://cdn.thestorygraph.com/hwk96h7u42utgrjt3lr41s5y1esf"
-        },
-        {
-            "title": "The Jagged Orbit",
-            "book_id": "fb6c1ea6-b696-423e-be73-e23b9bb592ba",
-            "authors": [
-                "John Brunner"
-            ],
-            "cover": "https://assets.thestorygraph.com/assets/placeholder-cover-a3ae92250eb3301e32dc3eabf8d50576c2f047dda89f6ee7cfa9a859cb1fd746.jpg"
-        },
-        {
-            "title": "Dune Messiah",
-            "book_id": "d80920a1-ec27-4881-9b5c-6de212a94927",
-            "authors": [
-                "Frank Herbert"
-            ],
-            "cover": "https://cdn.thestorygraph.com/qgwxbkqp00f8gtg53f7hat2qbov9"
         }
     ]
 }
