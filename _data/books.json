@@ -1,6 +1,16 @@
 {
-    "lastUpdatedTime": "2026-09-12 13:26:28.433678",
+    "lastUpdatedTime": "2026-09-13 14:10:45.859247",
     "read": [
+        {
+            "title": "Life After Cars: Freeing Ourselves from the Tyranny of the Automobile",
+            "book_id": "c1880b31-ce89-4fcd-9124-e531b3533e56",
+            "authors": [
+                "Aaron Naparstek",
+                "Doug Gordon",
+                "Sarah Goodyear"
+            ],
+            "cover": "https://cdn.thestorygraph.com/nialhhxa8f1i0jqz04n7nd50pi75"
+        },
         {
             "title": "The Land Trap: A New History of the World's Oldest Asset",
             "book_id": "bdef4794-6d56-4589-9398-2e689237ae4f",
@@ -114,14 +124,6 @@
                 "John Brunner"
             ],
             "cover": "https://assets.thestorygraph.com/assets/placeholder-cover-a3ae92250eb3301e32dc3eabf8d50576c2f047dda89f6ee7cfa9a859cb1fd746.jpg"
-        },
-        {
-            "title": "Dune Messiah",
-            "book_id": "d80920a1-ec27-4881-9b5c-6de212a94927",
-            "authors": [
-                "Frank Herbert"
-            ],
-            "cover": "https://cdn.thestorygraph.com/qgwxbkqp00f8gtg53f7hat2qbov9"
         }
     ]
 }
