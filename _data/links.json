@@ -1,6 +1,11 @@
 {
     "recent": [
         {
+            "title": "The Test",
+            "description": "",
+            "url": "https://tante.cc/2026/09/24/the-test/"
+        },
+        {
             "title": "Superintelligence: The Idea That Eats Smart People",
             "description": "",
             "url": "https://idlewords.com/talks/superintelligence.htm"
@@ -69,12 +74,7 @@
             "title": "RFK Jr.\u2019s Toxic World - by Alan Elrod - The Bulwark",
             "description": "",
             "url": "https://www.thebulwark.com/p/rfk-jr-toxic-world-vaccines-contamination-safe-hhs-autism-ocd"
-        },
-        {
-            "title": "Microsoft made a quiet change to a popular software grant. Small nonprofits lost everything.",
-            "description": "",
-            "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html"
         }
     ],
-    "lastUpdatedTime": "2026-09-24 14:43:41.321899"
+    "lastUpdatedTime": "2026-09-25 15:04:21.574768"
 }
