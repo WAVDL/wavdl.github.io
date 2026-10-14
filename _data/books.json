@@ -1,6 +1,14 @@
 {
-    "lastUpdatedTime": "2026-10-13 17:25:53.928391",
+    "lastUpdatedTime": "2026-10-14 14:56:18.611451",
     "read": [
+        {
+            "title": "Don't Be Evil: Bad Bosses, Fake Promises, and My Escape from Big Tech",
+            "book_id": "fae9d267-fd7c-4fdd-be96-5d2384bef5c5",
+            "authors": [
+                "Claire Stapleton"
+            ],
+            "cover": "https://cdn.thestorygraph.com/7737no8zzyh734me9csv9aqi57j2"
+        },
         {
             "title": "Life After Cars: Freeing Ourselves from the Tyranny of the Automobile",
             "book_id": "c1880b31-ce89-4fcd-9124-e531b3533e56",
@@ -116,14 +124,6 @@
                 "Jeff Speck"
             ],
             "cover": "https://cdn.thestorygraph.com/hwk96h7u42utgrjt3lr41s5y1esf"
-        },
-        {
-            "title": "The Jagged Orbit",
-            "book_id": "fb6c1ea6-b696-423e-be73-e23b9bb592ba",
-            "authors": [
-                "John Brunner"
-            ],
-            "cover": "https://assets.thestorygraph.com/assets/placeholder-cover-a3ae92250eb3301e32dc3eabf8d50576c2f047dda89f6ee7cfa9a859cb1fd746.jpg"
         }
     ]
 }
