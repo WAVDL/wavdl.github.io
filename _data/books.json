@@ -1,6 +1,15 @@
 {
-    "lastUpdatedTime": "2026-10-20 14:49:25.819420",
+    "lastUpdatedTime": "2026-10-22 14:56:36.203108",
     "read": [
+        {
+            "title": "The Hobbit: or There and Back Again",
+            "book_id": "935eea29-cdc0-4487-b1f6-db74cfd62c22",
+            "authors": [
+                "J.R.R. Tolkien",
+                "J.R.R. Tolkien"
+            ],
+            "cover": "https://cdn.thestorygraph.com/9u2j3bcr6bbzuj99thidj3kfug4r"
+        },
         {
             "title": "Don't Be Evil: Bad Bosses, Fake Promises, and My Escape from Big Tech",
             "book_id": "fae9d267-fd7c-4fdd-be96-5d2384bef5c5",
@@ -116,14 +125,6 @@
                 "Frank Herbert"
             ],
             "cover": "https://cdn.thestorygraph.com/iq8f2t1agn7xmf6qpigmbysg9jul"
-        },
-        {
-            "title": "Walkable City: How Downtown Can Save America, One Step at a Time",
-            "book_id": "44f9983b-3982-443e-a2ba-b5be7ba45dc2",
-            "authors": [
-                "Jeff Speck"
-            ],
-            "cover": "https://cdn.thestorygraph.com/hwk96h7u42utgrjt3lr41s5y1esf"
         }
     ]
 }
