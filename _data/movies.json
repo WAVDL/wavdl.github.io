@@ -1,6 +1,18 @@
 {
     "watched": [
         {
+            "title": "Memento, 2000 - \u2605\u2605\u2605\u2605",
+            "image": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247",
+            "review": "Dudes rock",
+            "link": "https://letterboxd.com/wavdl/film/memento/"
+        },
+        {
+            "title": "Bridget Jones's Diary, 2001 - \u2605\u2605\u00bd",
+            "image": "https://a.ltrbxd.com/resized/sm/upload/0u/jf/ve/sc/ydsXlFK0fmOphAIjqsmf5U6j1LU-0-600-0-900-crop.jpg?v=d771ae3fb2",
+            "review": "Do dudes rock?",
+            "link": "https://letterboxd.com/wavdl/film/bridget-joness-diary/"
+        },
+        {
             "title": "You Can See Everything, 2026 - \u2605\u2605\u2605\u2605",
             "image": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74",
             "review": "Dudes rock, but not dudes named Billy",
@@ -77,19 +89,7 @@
             "image": "https://a.ltrbxd.com/resized/film-poster/9/7/6/4/1/9/976419-backrooms-2026-0-600-0-900-crop.jpg?v=f7a99e3fc8",
             "review": "I enjoyed this. The ending was a little dissatisfying, just because it was intentionally left open ended with many possible explanations. That can be fun, but the story didn't lead me to feel strongly one way or another",
             "link": "https://letterboxd.com/wavdl/film/backrooms-2026/"
-        },
-        {
-            "title": "The Truman Show, 1998 - \u2605\u2605\u2605\u2605\u00bd",
-            "image": "https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-600-0-900-crop.jpg?v=704ba393f7",
-            "review": "Still such a great commentary on privacy and surveillance, on entertainment and spectacle, on freedom and free will, on the bubbles we live in by corporate design, on the attention economy, everything that is so relavent in 2026.",
-            "link": "https://letterboxd.com/wavdl/film/the-truman-show/"
-        },
-        {
-            "title": "Weapons, 2025 - \u2605\u2605\u2605\u2605",
-            "image": "https://a.ltrbxd.com/resized/film-poster/9/7/2/1/0/9/972109-weapons-2025-0-600-0-900-crop.jpg?v=8100270337",
-            "review": "I really liked this. I like that it had normal movie parts and was also a scary movie. It felt more real and organic that way, and the normal parts weren't forced.",
-            "link": "https://letterboxd.com/wavdl/film/weapons-2025/"
         }
     ],
-    "lastUpdatedTime": "2026-11-06 17:15:05.769048"
+    "lastUpdatedTime": "2026-11-07 16:11:00.938004"
 }
