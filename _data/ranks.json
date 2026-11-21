@@ -1,5 +1,5 @@
 {
-    "lastUpdatedTime": "2026-11-20 18:24:24.871961",
+    "lastUpdatedTime": "2026-11-21 17:12:36.116261",
     "ranks": [
         {
             "division": "Division I",
@@ -8,14 +8,14 @@
             "rank": "Diamond III"
         },
         {
-            "division": "Division I",
-            "mmr": 1436,
+            "division": "Division II",
+            "mmr": 1462,
             "playlist": "2v2 Doubles",
             "rank": "Grand Champion I"
         },
         {
-            "division": "Division III",
-            "mmr": 1268,
+            "division": "Division IV",
+            "mmr": 1296,
             "playlist": "3v3 Standard",
             "rank": "Champion II"
         }
