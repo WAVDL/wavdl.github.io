@@ -1,6 +1,12 @@
 {
     "watched": [
         {
+            "title": "Star Wars, 1977 - \u2605\u2605\u2605\u00bd",
+            "image": "https://a.ltrbxd.com/resized/film-poster/2/7/0/6/2706-star-wars-0-600-0-900-crop.jpg?v=f1f1271bf5",
+            "review": "Watched on Thursday November 19, 2026.",
+            "link": "https://letterboxd.com/wavdl/film/star-wars/"
+        },
+        {
             "title": "Dune: Part Two, 2024 - \u2605\u2605\u2605\u2605\u2605",
             "image": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-600-0-900-crop.jpg?v=cc533700f8",
             "review": "Dudes rock!!",
@@ -83,13 +89,7 @@
             "image": "https://a.ltrbxd.com/resized/film-poster/9/1/9/2/3/8/919238-in-the-hand-of-dante-0-600-0-900-crop.jpg?v=13be79f68b",
             "review": "There were a few cool scenes but overall a very unpleasant watch. Maybe if I had a greater appreciation of Middle Age poetry I would feel different, idk, this was not for me.",
             "link": "https://letterboxd.com/wavdl/film/in-the-hand-of-dante/"
-        },
-        {
-            "title": "Interstellar, 2014 - \u2605\u2605\u2605\u2605\u2605",
-            "image": "https://a.ltrbxd.com/resized/film-poster/1/1/7/6/2/1/117621-interstellar-0-600-0-900-crop.jpg?v=7ad89e6666",
-            "review": "I'm not big on rewatching things but this is still probably my favorite movie.",
-            "link": "https://letterboxd.com/wavdl/film/interstellar/"
         }
     ],
-    "lastUpdatedTime": "2026-11-22 17:40:43.887648"
+    "lastUpdatedTime": "2026-11-23 21:56:27.752821"
 }
